@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\6-Cuadrados\main.cpp(54,48): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\6-Cuadrados\main.cpp(56,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  6-Cuadrados.vcxproj -> D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\Debug\6-Cuadrados.exe

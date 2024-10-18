@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\Ajedrez\main.cpp(31,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\Ajedrez\main.cpp(31,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\Ajedrez\main.cpp(35,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\Ajedrez\main.cpp(35,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Ajedrez.vcxproj -> D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\Debug\2-Ajedrez.exe

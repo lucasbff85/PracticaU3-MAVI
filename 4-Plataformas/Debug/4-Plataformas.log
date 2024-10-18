@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\4-Plataformas\main.cpp(42,44): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\4-Plataformas\main.cpp(42,35): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\4-Plataformas\main.cpp(45,26): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\4-Plataformas\main.cpp(50,51): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\4-Plataformas\main.cpp(50,35): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  4-Plataformas.vcxproj -> D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU3LucasBoffa\Debug\4-Plataformas.exe
